@@ -12,6 +12,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Worldnihao!" );
+        System.out.println( "Hello Worldnihao!你好" );
     }
 }
